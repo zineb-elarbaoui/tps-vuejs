@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Premier article",
+      "body": "Ceci est le contenu complet de l'article numéro 1.",
+      "tags": [
+        "vue",
+        "javascript"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Deuxième article",
+      "body": "Un deuxième article avec un texte plus long...",
+      "tags": [
+        "web",
+        "frontend"
+      ]
+    },
+    {
+      "id": "2ae7",
+      "title": "tp blog",
+      "body": "Le but de ce TP est de créer une application blog qui permettra aux utilisateurs de visualiser, d’ajouter, de modifier et de supprimer des articles. \n\nL’application aura l’architecture suivante (que vous pouvez adapter selon votre vision) :  ",
+      "tags": [
+        "#vue",
+        "#js"
+      ]
+    }
+  ]
+}
