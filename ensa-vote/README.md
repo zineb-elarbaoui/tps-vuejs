@@ -1,4 +1,9 @@
-# ensa-vote
+# Ensa Vote Project
+
+This is my Vue.js voting app deployed with Firebase Hosting.
+
+🔗 [Try it live](https://ensa-vote-zineb-elarbaoui.web.app)
+
 
 ## Project setup
 ```
